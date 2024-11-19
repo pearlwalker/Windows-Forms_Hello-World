@@ -1,0 +1,10 @@
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\bin\Debug\IGME201_windows-forms_hello-world.exe.config
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\bin\Debug\IGME201_windows-forms_hello-world.exe
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\bin\Debug\IGME201_windows-forms_hello-world.pdb
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\obj\Debug\IGME201_windows-forms_hello-world.csproj.AssemblyReference.cache
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\obj\Debug\IGME201_windows_forms_hello_world.Form1.resources
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\obj\Debug\IGME201_windows_forms_hello_world.Properties.Resources.resources
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\obj\Debug\IGME201_windows-forms_hello-world.csproj.GenerateResource.cache
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\obj\Debug\IGME201_windows-forms_hello-world.csproj.CoreCompileInputs.cache
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\obj\Debug\IGME201_windows-forms_hello-world.exe
+C:\Users\pearl\source\repos\IGME201_windows-forms_hello-world\IGME201_windows-forms_hello-world\obj\Debug\IGME201_windows-forms_hello-world.pdb
